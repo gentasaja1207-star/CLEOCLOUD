@@ -1,0 +1,8 @@
+{
+  "name": "Cleo Cloud",
+  "description": "Cleo Cloud - Web Music Player",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
